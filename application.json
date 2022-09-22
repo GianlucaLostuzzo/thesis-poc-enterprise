@@ -11,6 +11,10 @@
     {
       "id": "Profilo",
       "isDefault": false
+    },
+    {
+      "id": "Riepilogo",
+      "isDefault": false
     }
   ],
   "viewMode": false,
